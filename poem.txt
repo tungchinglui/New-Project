@@ -1,4 +1,4 @@
-the rainbow
+the rainbow and the unicorn
 
 Purple
 
@@ -9,3 +9,5 @@ green
 light blue
 testing
 yellow
+unicorn
+and the unicorn
