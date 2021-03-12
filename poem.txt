@@ -5,4 +5,6 @@ Purple
 orange
 pink
 blue
+green
+light blue
 testing
